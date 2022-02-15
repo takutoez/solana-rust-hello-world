@@ -6,7 +6,6 @@ use solana_program::{
   msg,
 };
 
-// solana-program-sdkの `entrypoint` を呼び出し。
 entrypoint!(process_instruction);
 
 fn process_instruction(
