@@ -16,3 +16,6 @@ solana balance #確認
 cargo build-bpf
 ```
 To deploy this program: 以下のコマンドを実行
+
+## Explorer
+ここにProgram IDを入力するとデプロイを確認できる: https://explorer.solana.com
