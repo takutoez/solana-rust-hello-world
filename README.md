@@ -1,4 +1,4 @@
-# solana-tutorial
+# solana-rust-hello-world
 
 元記事: https://note.com/cml_2010/n/n3b0895215b64
 
