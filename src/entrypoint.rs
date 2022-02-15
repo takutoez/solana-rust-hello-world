@@ -14,6 +14,6 @@ fn process_instruction(
   _accounts: &[AccountInfo],
   _instruction_data: &[u8],
 ) -> ProgramResult {
-  msg!("プログラム実行");
+  msg!("Hello World!");
   Ok(())
 }
